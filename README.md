@@ -10,7 +10,7 @@ What's up? I'm Shimaru. A high-schooler who specializes in Haxe, Node and HTML!
 
 - :electron:  Applications utilizing [Electron](https://github.com/electron/electron)
 - <span><img src="https://i.imgur.com/7jv0Ke0.png"></img></span>  [Discord](https://discord.com/) bots with [Discord.js](https://github.com/discordjs/discord.js)
-- <span><img src="https://i.imgur.com/1WnnmFB.png"></img></span>  [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) mods using the [Kade Engine](https://github.com/KadeDev/Kade-Engine)
+- <span><img src="https://i.imgur.com/1WnnmFB.png"></img></span>  [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) mods using [Kade Engine](https://github.com/KadeDev/Kade-Engine)
 - <span><img src="https://i.imgur.com/H43etG5.png"></img></span>  My graphic design skills using [Adobe Photoshop](https://photoshop.com/)
 - <span><img src="https://i.imgur.com/E0IjtYO.png"></img></span>  iOS Apps using [Swift](https://github.com/apple/swift) and <img src="https://i.imgur.com/n4sUcka.png"></img></span>   [Apple XCode](https://developer.apple.com/xcode/)
 - <span><img src="https://i.imgur.com/EFHi2eQ.png"></img></span>  Game development with [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
@@ -18,9 +18,9 @@ What's up? I'm Shimaru. A high-schooler who specializes in Haxe, Node and HTML!
 - <span><img src="https://i.imgur.com/46tZYQW.png"></img></span>  Music production with [FL Studio](https://image-line.com/fl-studio/)
 
 ### 🏄  I specialize in:
-- <span><img src="https://i.imgur.com/tVZQoA7.png"></img></span>   [Front-End Development](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html) and UI/UX design in programs such as [Photoshop](https://photoshop.com)
+- <span><img src="https://i.imgur.com/tVZQoA7.png"></img></span>   [Front-End Development](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html) and UI/UX design in programs such as <span><img src="https://i.imgur.com/H43etG5.png"></img></span>  [Photoshop](https://photoshop.com)
 - <span><img src="https://i.imgur.com/6SNCzPB.png"></img></span>   [Minecraft](https://www.minecraft.net/) server development
-- <span><img src="https://i.imgur.com/9R0n0CS.png"></img></span>   [Discord.js](https://github.com/discordjs/discord.js) chat-bots using [Node.js](https://github.com/nodejs/node)
+- <span><img src="https://i.imgur.com/9R0n0CS.png"></img></span>   [Discord.js](https://github.com/discordjs/discord.js) chat-bots using <img src="https://i.imgur.com/7MK1FOU.png"></img></span>   [Node.js](https://github.com/nodejs/node)
 
 <h2 align="center">🌴  Interests:</h2> <!-- I cannot stress how much this section annoys me, IT'S JUST SO MESSY -->
 <p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Haxe&color=EA8220&logo=Haxe&logoColor=FFFFFF&label=">
