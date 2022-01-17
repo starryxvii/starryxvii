@@ -10,7 +10,6 @@ What's up? I'm Shimaru. A high-schooler who specializes in Haxe, Node and HTML!
 
 - :electron:  Applications utilizing [Electron](https://github.com/electron/electron)
 - <span><img src="https://i.imgur.com/7jv0Ke0.png"></img></span>  [Discord](https://discord.com/) bots with [Discord.js](https://github.com/discordjs/discord.js)
-- <span><img src="https://i.imgur.com/1WnnmFB.png"></img></span>  [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) mods using [Kade Engine](https://github.com/KadeDev/Kade-Engine)
 - <span><img src="https://i.imgur.com/H43etG5.png"></img></span>  My graphic design skills using [Adobe Photoshop](https://photoshop.com/)
 - <span><img src="https://i.imgur.com/E0IjtYO.png"></img></span>  iOS Apps using [Swift](https://github.com/apple/swift) and <img src="https://i.imgur.com/n4sUcka.png"></img></span>   [Apple XCode](https://developer.apple.com/xcode/)
 - <span><img src="https://i.imgur.com/EFHi2eQ.png"></img></span>  Game development with [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
