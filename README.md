@@ -26,7 +26,7 @@ What's up? I'm Shimaru. A high-schooler who specializes in Haxe, Node and HTML!
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label="> 
 
  
-<span><img src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_white_16.png"></img></span> <a class = "twitter" style="color:white;" href="https://twitter.com/intent/follow?&region=follow_link&screen_name=shimaruwu">Follow me on Twitter! </a>
+<span><img src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_white_16.png"></img></span> <a class = "twitter" style="color:white;" href="https://twitter.com/intent/follow?&region=follow_link&screen_name=JustShimaru">Follow me on Twitter! </a>
 
  
 ### ☀️  My GitHub stats:
