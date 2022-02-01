@@ -2,16 +2,14 @@
 
 ## :wave: Hey there, welcome to my profile! 
 
-What's up? I'm Shimaru. A high-schooler who specializes in Haxe, Node and HTML! 
+What's up? I'm <a href = "https://shimaru.space/">Shimaru</a>. I specialize in Haxe, NodeJS and HTML! 
 
 <div align="center">
 
 ### 🍍  I'm currently working on:
 
 - :electron:  Applications utilizing [Electron](https://github.com/electron/electron)
-- <span><img src="https://i.imgur.com/7jv0Ke0.png"></img></span>  [Discord](https://discord.com/) bots with [Discord.js](https://github.com/discordjs/discord.js)
 - <span><img src="https://i.imgur.com/H43etG5.png"></img></span>  My graphic design skills using [Adobe Photoshop](https://photoshop.com/)
-- <span><img src="https://i.imgur.com/E0IjtYO.png"></img></span>  iOS Apps using [Swift](https://github.com/apple/swift) and <img src="https://i.imgur.com/n4sUcka.png"></img></span>   [Apple XCode](https://developer.apple.com/xcode/)
 - <span><img src="https://i.imgur.com/EFHi2eQ.png"></img></span>  Game development with [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
  - <span><img src="https://i.imgur.com/JKlcba6.png"></img></span>  ROBLOX game development with [Luau](https://luau-lang.org/)
 - <span><img src="https://i.imgur.com/46tZYQW.png"></img></span>  Music production with [FL Studio](https://image-line.com/fl-studio/)
