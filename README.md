@@ -2,7 +2,7 @@
 
 ## :wave: Hey there, welcome to my profile! 
 
-What's up? I'm <a href = "https://shimaru.space/">Shimaru</a>. I specialize in Haxe, NodeJS and HTML! 
+What's up? I'm <a href = "https://shimaru.space/">Starry</a>. I specialize in Haxe, NodeJS and HTML! 
 
 <div align="center">
 
