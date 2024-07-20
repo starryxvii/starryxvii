@@ -28,7 +28,7 @@ What's up? I'm <a href = "https://shimaru.space/">Starry</a>. I specialize in Ha
 
  
 ### ☀️  My GitHub stats:
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=devShimaru&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/starryxvii)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=starryxvii&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/starryxvii)
 ### 🌻  My Discord profile:
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/507691591612497921)](https://discord.com/users/507691591612497921)
